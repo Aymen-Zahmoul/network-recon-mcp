@@ -29,7 +29,7 @@ Built with Python as a hands-on project at the intersection of AI and cybersecur
 
 ## Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/network-recon-mcp.git
+git clone https://github.com/Ayme-Zahmoul/network-recon-mcp.git
 cd network-recon-mcp
 pip install -r requirements.txt
 ```
